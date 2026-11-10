@@ -10,9 +10,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Amit-sandhu">
-<img src="https://img.shields.io/badge/GitHub-Amit--sandhu-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amiteshwarsinghsandhu/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=818cf8"/>
