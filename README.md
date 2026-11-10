@@ -107,13 +107,13 @@ Python-based automation involving APIs, browser automation, scraping and content
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-sandhu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-sandhu&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=777777" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Amit-sandhu&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=777777" />
 
 </div>
 
