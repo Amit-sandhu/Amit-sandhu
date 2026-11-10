@@ -1,89 +1,157 @@
-<!-- HEADER -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Amit%20Sandhu&fontSize=65&fontColor=ffffff&stroke=6366f1&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Quantitative%20Finance&descAlignY=60&descSize=15&color=0:0f172a,100:111827" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&text=AMIT%20SANDHU&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20SYSTEMS%20%2F%20QUANTITATIVE%20FINANCE&descSize=13&descAlignY=68&animation=fadeIn&color=0:080d18,50:111827,100:1e1b4b"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+systems%2C+one+problem+at+a+time.;Interested+in+low-latency+computing.;Algorithms+%7C+Systems+%7C+Technology." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=Engineering+systems+that+make+sense.;Algorithms.+Architecture.+Performance.;Always+building%2C+always+learning." />
+
+<br/><br/>
+
+<a href="https://github.com/Amit-sandhu">
+<img src="https://img.shields.io/badge/GitHub-Amit--sandhu-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amiteshwarsinghsandhu/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=818cf8"/>
+</a>
+&nbsp;
+<a href="https://x.com/ItzGlance">
+<img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## About
+## 01 / About
 
-I'm a Computer Science undergraduate based in India, interested in building efficient software and understanding the systems behind it.
+Computer Science undergraduate based in India.
 
-My primary interests include systems engineering, algorithms, low-latency computing, and quantitative finance.
+Interested in understanding how software works beneath the surface — from algorithms and memory management to operating systems, networking and low-latency systems.
 
-I enjoy experimenting with technologies, solving challenging problems, and building things that move beyond the theoretical.
+I enjoy building practical projects, exploring technical ideas and solving problems that require more than just writing code.
 
-Currently working on strengthening my foundations in computer science while building practical projects.
+**Primary interests**
 
-**Areas of interest**
-
-- Data Structures & Algorithms
-- Competitive Programming
-- Systems Programming
+- Systems Engineering & Low-Level Programming
+- Data Structures, Algorithms & Competitive Programming
 - Operating Systems & Computer Architecture
-- Networking & Performance Optimization
+- Networking, Concurrency & Performance Optimization
 - Probability, Statistics & Quantitative Finance
 
 ---
 
-## Tech Stack
+## 02 / Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nextjs,nodejs,fastapi,mysql,linux,git,github&perline=8" />
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js&theme=dark" />
+
+<br/><br/>
+
+**DEVELOPMENT & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,mysql,linux,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## Featured Projects
+## 03 / Selected Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Limit Order Book
+<h3>01. Limit Order Book</h3>
 
-A Java-based limit order book simulator implementing core order matching and market mechanics.
+A Java-based limit order book simulator implementing order management and matching mechanics.
 
-**Focus:** Data structures, matching algorithms, financial systems.
+`Java` `Data Structures` `Algorithms`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### StreetRing
+<h3>02. StreetRing</h3>
 
-A market intelligence platform focused on Indian financial markets, combining market data, technical analysis and AI-assisted insights.
+A market intelligence platform for Indian financial markets, combining market data, technical analysis and AI-assisted insights.
 
-**Focus:** Full-stack development, APIs, financial data.
+`Python` `FastAPI` `Next.js`
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+<h3>03. CampSpace</h3>
+
+A student-focused platform designed to simplify campus information, resources and student workflows.
+
+`Web Development` `APIs`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Automation Tools</h3>
+
+Python-based automation projects involving browser automation, APIs, web scraping and content generation.
+
+`Python` `Playwright` `APIs`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Amit-sandhu?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-818cf8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 04 / Current Focus
+
+<table>
+<tr>
 <td width="50%">
 
-### CampSpace
+**01 — Algorithms**
 
-A student-focused platform designed to simplify campus information and student workflows.
-
-**Focus:** Web development, product engineering.
+Data structures, problem solving, competitive programming and algorithmic thinking.
 
 </td>
 <td width="50%">
 
-### Automation Projects
+**02 — Systems**
 
-Python-based automation involving APIs, browser automation, scraping and content generation.
+C++, Linux, operating systems, computer architecture and memory management.
 
-**Focus:** Python, automation, integrations.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**03 — Mathematics**
+
+Probability, statistics, linear algebra and mathematical foundations.
+
+</td>
+<td width="50%">
+
+**04 — Engineering**
+
+Networking, concurrency, performance optimization and low-latency computing.
 
 </td>
 </tr>
@@ -91,50 +159,32 @@ Python-based automation involving APIs, browser automation, scraping and content
 
 ---
 
-## Current Focus
+## 05 / Beyond Code
 
-```text
-01 / Algorithms       DSA, problem solving, competitive programming
-02 / Systems           C++, Linux, operating systems, architecture
-03 / Mathematics       Probability, statistics, linear algebra
-04 / Engineering       Networking, concurrency, performance
-05 / Finance           Quantitative research and market microstructure
-```
+Interested in the intersection of technology, finance and entrepreneurship.
+
+I enjoy exploring early-stage startups, collaborating with developers and participating in technical communities.
 
 ---
 
-## GitHub Statistics
+## 06 / Let's Connect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-sandhu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-sandhu&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Amit-sandhu&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=777777" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="linkedin.com/in/amiteshwarsinghsandhu">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
+<a href="https://www.linkedin.com/in/amiteshwarsinghsandhu/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-111827?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
 </a>
+
 <a href="https://x.com/ItzGlance">
-<img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/X-Updates%20%26%20Thoughts-111827?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
 <a href="mailto:amiteshwarsinghlps3429@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-111827?style=for-the-badge&logo=gmail&logoColor=818cf8"/>
 </a>
 
 <br/><br/>
 
-<sub>Building. Breaking. Understanding. Improving.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&section=footer&text=BUILD.%20BREAK.%20UNDERSTAND.%20IMPROVE.&fontSize=16&fontColor=818cf8&color=0:080d18,100:1e1b4b"/>
 
 </div>
