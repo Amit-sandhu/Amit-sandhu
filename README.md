@@ -5,20 +5,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&text=AMIT%20SANDHU&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20SYSTEMS%20%2F%20QUANTITATIVE%20FINANCE&descSize=13&descAlignY=68&animation=fadeIn&color=0:080d18,50:111827,100:1e1b4b"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=Engineering+systems+that+make+sense.;Algorithms.+Architecture.+Performance.;Always+building%2C+always+learning." />
-
-<br/><br/>
-
-&nbsp;
-<a href="https://www.linkedin.com/in/amiteshwarsinghsandhu/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=818cf8"/>
-</a>
-&nbsp;
-<a href="https://x.com/ItzGlance">
-<img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white"/>
-</a>
-
 </div>
 
 <br/>
